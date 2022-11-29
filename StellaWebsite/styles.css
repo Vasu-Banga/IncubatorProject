@@ -1,0 +1,24 @@
+.navBar{
+    height: 70px;
+    position: sticky;
+}
+
+.navDivider{
+    margin-right: 5%;
+    margin-left: 5%;
+    border: 1px solid black;
+}
+
+.firstSection{
+    height: 450px;
+}
+
+.spacer{
+    position: relative;
+    height: 25px;
+    width: 100%;
+}
+
+#logoButton{
+    font-size: 50px;
+}
